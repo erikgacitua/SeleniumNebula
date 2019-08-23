@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39444" started-at="2019-08-23T16:40:43 CLT" finished-at="2019-08-23T16:41:22 CLT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39444" started-at="2019-08-23T16:40:43 CLT" finished-at="2019-08-23T16:41:22 CLT">
+      <class name="Tsoft.Nebula.nebulaLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tsoft.Nebula.nebulaLogin@64729b1e]" name="setUp" is-config="true" duration-ms="9820" started-at="2019-08-23T16:40:43 CLT" finished-at="2019-08-23T16:40:53 CLT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pruebaUno()[pri:0, instance:Tsoft.Nebula.nebulaLogin@64729b1e]" name="pruebaUno" duration-ms="29584" started-at="2019-08-23T16:40:53 CLT" finished-at="2019-08-23T16:41:22 CLT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaUno -->
+        <test-method status="PASS" signature="tearDonw()[pri:0, instance:Tsoft.Nebula.nebulaLogin@64729b1e]" name="tearDonw" is-config="true" duration-ms="0" started-at="2019-08-23T16:41:22 CLT" finished-at="2019-08-23T16:41:22 CLT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDonw -->
+      </class> <!-- Tsoft.Nebula.nebulaLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
